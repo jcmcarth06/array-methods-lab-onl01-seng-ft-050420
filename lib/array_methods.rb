@@ -4,6 +4,7 @@ def using_include(array, element)
     true
   elsif array.include?("tardis")
     false
+  end
 end
 
 def using_sort(array)
